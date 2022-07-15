@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 15 2022 21:51:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 15 2022 22:26:27 GMT+0800 (China Standard Time) -->
 
 1. [大美新疆咱们的好地方](https://s.weibo.com//weibo?q=%23%E5%A4%A7%E7%BE%8E%E6%96%B0%E7%96%86%E5%92%B1%E4%BB%AC%E7%9A%84%E5%A5%BD%E5%9C%B0%E6%96%B9%23&Refer=new_time)
 1. [关晓彤工作人员回应](https://s.weibo.com//weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%23&Refer=top)
@@ -41,8 +41,8 @@
 1. [秀玉被父母逼迫签协议](https://s.weibo.com//weibo?q=%23%E7%A7%80%E7%8E%89%E8%A2%AB%E7%88%B6%E6%AF%8D%E9%80%BC%E8%BF%AB%E7%AD%BE%E5%8D%8F%E8%AE%AE%23&Refer=top)
 1. [蔡徐坤评论徐梦桃](https://s.weibo.com//weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%AF%84%E8%AE%BA%E5%BE%90%E6%A2%A6%E6%A1%83%23&Refer=top)
 1. [新疆昭苏又见天马浴河](https://s.weibo.com//weibo?q=%23%E6%96%B0%E7%96%86%E6%98%AD%E8%8B%8F%E5%8F%88%E8%A7%81%E5%A4%A9%E9%A9%AC%E6%B5%B4%E6%B2%B3%23&Refer=top)
-1. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top)
 1. [四川南充1热射病患者死亡](https://s.weibo.com//weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8D%97%E5%85%851%E7%83%AD%E5%B0%84%E7%97%85%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1%23&Refer=top)
+1. [阴阳师](https://s.weibo.com//weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top)
 1. [RNG对战LNG](https://s.weibo.com//weibo?q=%23RNG%E5%AF%B9%E6%88%98LNG%23&Refer=top)
 1. [广西的小吃有多丰富](https://s.weibo.com//weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%9A%84%E5%B0%8F%E5%90%83%E6%9C%89%E5%A4%9A%E4%B8%B0%E5%AF%8C%23&Refer=top)
 1. [今年夏天能有多热](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%A4%8F%E5%A4%A9%E8%83%BD%E6%9C%89%E5%A4%9A%E7%83%AD%23&Refer=top)
