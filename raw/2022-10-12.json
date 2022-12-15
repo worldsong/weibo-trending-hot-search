@@ -2263,7 +2263,10 @@
     "url": "/weibo?q=%23%E6%B2%99%E4%B8%982%E6%8F%90%E5%89%8D%E4%B8%8A%E6%98%A0%23&t=31&band_rank=50&Refer=top",
     "title": "沙丘2提前上映"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E8%80%81%E5%85%AC%E8%AF%AF%E6%8A%8A%E9%85%B5%E6%AF%8D%E7%B2%89%E5%BD%93%E6%84%9F%E5%86%92%E8%8D%AF%E7%BB%99%E8%80%81%E5%A9%86%E5%96%9D%23&t=31&band_rank=1&Refer=top",
     "title": "老公误把酵母粉当感冒药给老婆喝"

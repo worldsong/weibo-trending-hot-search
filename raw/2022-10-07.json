@@ -779,7 +779,10 @@
     "url": "/weibo?q=%23%E5%A5%B3%E5%AD%906%E5%8D%83%E4%B9%B0%E5%AE%9E%E6%9C%A8%E6%B2%99%E5%8F%91%E5%86%85%E9%83%A8%E5%85%A8%E6%98%AF%E6%B0%B4%E6%B3%A5%23&t=31&band_rank=50&Refer=top",
     "title": "女子6千买实木沙发内部全是水泥"
   },
-  { "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time", "title": "追光" },
+  {
+    "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time",
+    "title": "追光"
+  },
   {
     "url": "/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%BB%8E40%E2%84%83%E7%9B%B4%E6%8E%A5%E9%99%8D%E8%87%B317%E2%84%83%23&t=31&band_rank=2&Refer=top",
     "title": "江西从40℃直接降至17℃"
@@ -964,7 +967,10 @@
     "url": "/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E7%9A%96%E6%9C%80%E8%BF%91%E9%83%BD%E5%9C%A8%E5%90%83%E7%9A%84%E8%8F%9C%23&t=31&band_rank=50&Refer=top",
     "title": "江浙沪皖最近都在吃的菜"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%BB%8E40%E2%84%83%E7%9B%B4%E6%8E%A5%E9%99%8D%E8%87%B317%E2%84%83%23&t=31&band_rank=1&Refer=top",
     "title": "江西从40℃直接降至17℃"

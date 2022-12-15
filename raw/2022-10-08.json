@@ -1,5 +1,8 @@
 [
-  { "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time", "title": "追光" },
+  {
+    "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time",
+    "title": "追光"
+  },
   {
     "url": "/weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E9%A3%8E%E6%A0%BC%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=1&Refer=top",
     "title": "椰树集团直播带货风格引争议"
@@ -2815,7 +2818,10 @@
     "url": "/weibo?q=%23%E8%8A%B1%E6%B5%B7%E6%99%92%E8%AF%81%E5%BA%86%E7%A5%9D%E8%9D%89%E8%81%94%E5%86%A0%E5%86%9B%23&t=31&band_rank=50&Refer=top",
     "title": "花海晒证庆祝蝉联冠军"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E5%A6%82%E6%9E%9C%E4%BB%8A%E5%A4%A9%E4%BD%A0%E8%A7%89%E5%BE%97%E4%B8%83%E5%A4%A9%E5%BE%88%E7%9F%AD%23&t=31&band_rank=6&Refer=top",
     "title": "如果今天你觉得七天很短"
