@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 29 2025 06:25:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 29 2025 07:24:22 GMT+0800 (China Standard Time) -->
 
 1. [中共中央政治局召开会议](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&Refer=new_time)
 1. [普京宣布与乌克兰停火条件](https://s.weibo.com//weibo?q=%23%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=1&Refer=top)
