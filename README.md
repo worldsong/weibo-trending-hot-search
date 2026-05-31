@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 31 2026 06:05:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 31 2026 08:07:05 GMT+0800 (China Standard Time) -->
 
 1. [我国广大科技工作者是大有作为的](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E5%B9%BF%E5%A4%A7%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85%E6%98%AF%E5%A4%A7%E6%9C%89%E4%BD%9C%E4%B8%BA%E7%9A%84%23&Refer=new_time)
 1. [姆巴佩](https://s.weibo.com//weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=1&Refer=top)
